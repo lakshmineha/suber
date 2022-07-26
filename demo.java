@@ -1,1 +1,1 @@
-this is new test case
+this is new demo web shop
